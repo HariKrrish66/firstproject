@@ -3,3 +3,5 @@ USA
 UK
 Sweden
 Qatar
+Finland
+Australia
