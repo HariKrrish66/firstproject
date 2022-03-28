@@ -8,3 +8,5 @@ Australia
 Mexico
 Argentina
 Russia
+Greenland
+Iceland
